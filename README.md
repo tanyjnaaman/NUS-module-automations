@@ -16,6 +16,7 @@ In these repositories I have included code I have written as Jupyter Notebooks, 
 
 - [Modules](#Modules-)
 - [Set up](#Set-up-)
+- [What's next](#What's-next-)
 
 ## Modules
 1. EE2211 Introduction to Machine Learning
@@ -53,4 +54,9 @@ This module introduces students to basic probability theory and statistical infe
 We were expected to perform calculations with these tests by hand using statistical tables, but excel, or R were allowed. We were not allowed to use Python. So, for the statistical tests, I implemented all of them with R's default library, but used RSymPy to automate symbolic calculations. 
 
 ## Set up
+
 For easy annotation I wrote these scripts with Jupyter notebooks, which you will need. They are written in Python and use a mix of modules, such as numpy, matplotlib, sklearn, etc. All of these come with the [Anaconda Package](https://www.anaconda.com/), and I recommend you install it for ease of use. Use Jupyter Notebook in the Anaconda Navigator to open them.
+
+## What's next
+
+Some of the code here were written in a rush, so they can be a little scrappy. Sorry about that. I'll clean them up at some point. 
